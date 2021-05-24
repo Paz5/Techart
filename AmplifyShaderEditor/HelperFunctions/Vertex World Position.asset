@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Vertex World Position
   m_EditorClassIdentifier: 
   m_functionInfo: "// Made with Amplify Shader Editor\n// Available at the Unity
-    Asset Store - http://u3d.as/y3X \n/*ASEBEGIN\nVersion=18900\n910;73;617;501;550.4454;431.1327;1.440777;False;False\nNode;AmplifyShaderEditor.ObjectToWorldTransfNode;3;35.86628,-56.81919;Inherit;False;1;0;FLOAT4;0,0,0,1;False;5;FLOAT4;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.PosVertexDataNode;1;-135.6111,-56.63603;Inherit;False;0;0;5;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.FunctionOutput;0;210.8204,-55.47378;Inherit;False;True;-1;Position;0;False;1;0;FLOAT4;0,0,0,0;False;1;FLOAT4;0\nWireConnection;3;0;1;0\nWireConnection;0;0;3;0\nASEEND*/\n//CHKSM=DBCD6680BD89B54644D8B167C554C53024DB8C51"
+    Asset Store - http://u3d.as/y3X \n/*ASEBEGIN\nVersion=18900\n790;73;672;655;545.5064;369.2292;1;False;False\nNode;AmplifyShaderEditor.ObjectToWorldTransfNode;3;35.86628,-56.81919;Inherit;False;1;0;FLOAT4;0,0,0,1;False;5;FLOAT4;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.PosVertexDataNode;1;-375.6111,-41.19525;Inherit;False;0;0;5;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.DynamicAppendNode;4;-147.5064,-45.22916;Inherit;False;FLOAT4;4;0;FLOAT3;0,0,0;False;1;FLOAT;0;False;2;FLOAT;0;False;3;FLOAT;1;False;1;FLOAT4;0\nNode;AmplifyShaderEditor.FunctionOutput;0;212.2612,-55.47378;Inherit;False;True;-1;Position;0;False;1;0;FLOAT4;0,0,0,0;False;1;FLOAT4;0\nWireConnection;3;0;4;0\nWireConnection;4;0;1;0\nWireConnection;0;0;3;0\nASEEND*/\n//CHKSM=FDDBFBD06AA67D7CFA75F8C1695A80F298D6FFA1"
   m_functionName: 
   m_description: 
   m_additionalIncludes:
